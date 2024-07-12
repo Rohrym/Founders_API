@@ -5,7 +5,7 @@ This program retrieves data from the api from the online archive Founders Online
 
 This code needs the "founders-online-metadata.json" file to be within the same directory to run smoothly. This you can download at: [https://founders.archives.gov/Metadata/](https://founders.archives.gov/Metadata/).
 
-## WARNING: 
+## ⚠️WARNING: 
 
 Estimated runtime of this code is 5 hours. Be sure to keep your pc active during this time.  
 
